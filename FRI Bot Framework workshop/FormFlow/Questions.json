@@ -1,0 +1,36 @@
+﻿{
+  "type": "object",
+  "required": [
+    "Question1",
+    "Question2",
+    "Question3"
+  ],
+  "Templates": {
+    "NotUnderstood": {
+      "Patterns": [ "I do not understand \"{0}\".", "Try again, I don't get \"{0}\"." ]
+    }
+  },
+  "properties": {
+    "Question1": {
+      "Prompt": { "Patterns": [ "Do you want me to help you? {||}" ] },
+      "type": "boolean"
+    },
+
+    "Question2": {
+      "Prompt": { "Patterns": [ "Well I don't care anyway. What action do you want me to take? {||}" ] },
+      "type": "string",
+      "enum": [ "Option1", "Option2", "Option3" ],
+      "Values": {
+        "Option1": { "Describe": "List sessions" },
+        "Option2": { "Describe": "Show session details" },
+        "Option3": { "Describe": "I'm a potato" }
+      }
+    },
+
+
+    "Question3": {
+      "Prompt": { "Patterns": [ "So, all good? {||}" ] },
+      "type": "boolean"
+    }
+  }
+}

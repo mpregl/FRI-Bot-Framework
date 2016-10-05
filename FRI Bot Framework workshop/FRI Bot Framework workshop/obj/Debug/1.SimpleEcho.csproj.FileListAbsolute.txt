@@ -1,0 +1,39 @@
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\Bot Application1.dll.config
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\Bot Application1.dll
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\Bot Application1.pdb
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\Autofac.dll
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\Chronic.dll
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\Microsoft.Bot.Builder.dll
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\Microsoft.Bot.Connector.dll
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\Newtonsoft.Json.dll
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\System.Net.Http.Formatting.dll
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\System.Web.Http.dll
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\System.Web.Http.WebHost.dll
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\Autofac.xml
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\Microsoft.Bot.Builder.xml
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\Microsoft.Bot.Connector.xml
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\Newtonsoft.Json.xml
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\System.Net.Http.Formatting.xml
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\System.Web.Http.xml
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\System.Web.Http.WebHost.xml
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\obj\Debug\Bot Application1.dll
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\obj\Debug\Bot Application1.pdb
+c:\users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FRI Bot Framework workshop\obj\Debug\1.SimpleEcho.csprojResolveAssemblyReference.cache

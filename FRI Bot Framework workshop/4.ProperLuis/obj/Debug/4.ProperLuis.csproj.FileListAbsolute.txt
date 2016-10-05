@@ -1,0 +1,40 @@
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\obj\Debug\4.ProperLuis.csprojResolveAssemblyReference.cache
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\Bot Application1.dll.config
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\Bot Application1.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\Bot Application1.pdb
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\Autofac.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\Chronic.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\Microsoft.Bot.Builder.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\Microsoft.Bot.Connector.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\Newtonsoft.Json.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\System.Net.Http.Formatting.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\System.Web.Http.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\System.Web.Http.WebHost.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\Autofac.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\Microsoft.Bot.Builder.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\Microsoft.Bot.Connector.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\Newtonsoft.Json.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\System.Net.Http.Formatting.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\System.Web.Http.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\System.Web.Http.WebHost.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\obj\Debug\Bot Application1.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\obj\Debug\Bot Application1.pdb
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\4.ProperLuis\bin\de-de\Microsoft.Bot.Builder.resources.dll

@@ -1,0 +1,60 @@
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\obj\Debug\FormFlow and JSON.csprojResolveAssemblyReference.cache
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Bot Application1.dll.config
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Bot Application1.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Bot Application1.pdb
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Autofac.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Chronic.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.Bot.Builder.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.Bot.Builder.FormFlow.Json.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.Bot.Connector.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.CodeAnalysis.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Newtonsoft.Json.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\System.AppContext.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\System.Collections.Immutable.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\System.Diagnostics.StackTrace.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\System.IO.FileSystem.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\System.Net.Http.Formatting.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\System.Reflection.Metadata.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\System.Web.Http.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\System.Web.Http.WebHost.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Autofac.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.Bot.Builder.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.Bot.Builder.FormFlow.Json.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.Bot.Connector.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.CodeAnalysis.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.CodeAnalysis.Scripting.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\Newtonsoft.Json.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\System.Collections.Immutable.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\System.Net.Http.Formatting.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\System.Reflection.Metadata.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\System.Web.Http.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\System.Web.Http.WebHost.xml
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\de-de\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\obj\Debug\Bot Application1.dll
+C:\Users\mpregl\documents\visual studio 2015\Projects\FRI Bot Framework workshop\FormFlow and JSON\obj\Debug\Bot Application1.pdb

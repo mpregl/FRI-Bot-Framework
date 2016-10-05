@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.SimpleEcho", "FRI Bot Framework workshop\1.SimpleEcho.csproj", "{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.BasicLuis", "BasicLuis\2.BasicLuis.csproj", "{1F832B12-8F60-401A-8F4B-217B4CDBC569}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.FormFlow", "FormFlow\3.FormFlow.csproj", "{B2AD1E04-45FA-4559-B6A0-E03AA564D720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.ProperLuis", "4.ProperLuis\4.ProperLuis.csproj", "{98AD2AC0-7250-4F58-B847-B300866F2C9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F832B12-8F60-401A-8F4B-217B4CDBC569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F832B12-8F60-401A-8F4B-217B4CDBC569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F832B12-8F60-401A-8F4B-217B4CDBC569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F832B12-8F60-401A-8F4B-217B4CDBC569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2AD1E04-45FA-4559-B6A0-E03AA564D720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AD1E04-45FA-4559-B6A0-E03AA564D720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2AD1E04-45FA-4559-B6A0-E03AA564D720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AD1E04-45FA-4559-B6A0-E03AA564D720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98AD2AC0-7250-4F58-B847-B300866F2C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98AD2AC0-7250-4F58-B847-B300866F2C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98AD2AC0-7250-4F58-B847-B300866F2C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98AD2AC0-7250-4F58-B847-B300866F2C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
