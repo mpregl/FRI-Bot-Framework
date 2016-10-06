@@ -49,8 +49,9 @@
 	2.	Nastavi property IIS
 		
 7.	**FormFlow**
-	1.	Ne pozabi na build action - resource
-	2.	
+	1.	pripravite json datoteko z koraki
+	2.	procesiranje rezultatov in izpis korakov
+	3.	Ne pozabi na build action - resource	
 		
 8)	**Luis project 2**
 	1.	nov class, ki extenda LuisDialog
