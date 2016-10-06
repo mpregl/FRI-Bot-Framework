@@ -1,10 +1,12 @@
-Delavnica Bot Framework
+# Delavnica Bot Framework #
 
-Cilji:
+## Cilji: ##
 - Delujoč chat bot, ki zna interpetirati ukaze, jih sprocesirati ter vrniti odgovor
 - integracija v Skype/Slack/FB
 - Procesiranje jezika
 
+
+## Naloge ##
 
 1. **Osnove - postavitev okolja** (
 	1. VS + updates
