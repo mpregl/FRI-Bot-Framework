@@ -42,7 +42,6 @@ namespace _4.ProperLuis
             context.Wait(MessageReceived);
         }
 
-        //private Alarm turnOff;
 
         [LuisIntent("SessionDetails")]
         public async Task SessionDetails(IDialogContext context, LuisResult result)
